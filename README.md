@@ -39,7 +39,7 @@ My focus isn't just building dashboards — it's understanding **why something h
 <tr>
 <td width="50%" valign="top">
 
-**📍 Based in:** Firozabad, Uttar Pradesh, India
+<li>**📍 Based in:** Firozabad, Uttar Pradesh, India</li>
 **🎯 Target Roles:** Data Analyst • Business Analyst • BI Analyst • Financial Analyst
 **🌎 Open to:** Delhi NCR • Noida • Gurgaon • Delhi
 **🎓 Education:** BCA, J.S University (2023–2026)
