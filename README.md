@@ -75,9 +75,9 @@ My focus isn't just building dashboards — it's understanding **why something h
 
 **Bachelor of Computer Applications (BCA)** — J.S University, Shikohabad, UP · CGPA 7.5/10 · Aug 2023 – Jun 2026
 
-- 🏅 Advanced SQL & Intro to SQL — *Kaggle* (2026)
-- 🏅 Power BI Data Modelling & Analytics — *Simplilearn & Microsoft* (2026)
-- 🏅 Introduction to Data Analytics — *Simplilearn* (2026)
+- 🏅 SQL (Basic, Intermediate & Advanced) - *HackerRank Verified Certification* (2026)
+- 🏅 Python (Basic) - *HackerRank Verified Certification* (2026)
+- 🏅 Power BI Data Modelling & Analytics - *Simplilearn & Microsoft* (2026)
 - 🏅 Artificial Intelligence – Data Engineering Analyst — *NASSCOM & Skill India Digital Hub* (2026)
 
 ---
@@ -116,6 +116,28 @@ My focus isn't just building dashboards — it's understanding **why something h
 ## ⭐ Featured Projects
 
 > End-to-end analytics projects, each built around **Problem → Data → Analysis → Insight → Recommendation**.
+
+
+<table>
+<tr>
+<td width="42%"><img src="https://anaskhan-analyst.netlify.app/images/ecommerce-dashboard.png" width="100%"/></td>
+<td width="58%">
+
+### 🛒 E-Commerce Sales & Business Analytics
+`Power BI` `Power Query` `DAX`
+
+**Problem:** Management needed a clear view of e-commerce sales performance, category and product contribution, seller performance, pricing, inventory and operational metrics.
+
+**Key Insight:** The dashboard highlights revenue concentration across categories and products, seller and city performance, discount patterns, inventory risks, delivery performance and customer-related metrics.
+
+**Recommendation:** Focus on high-performing categories and products, optimize discount strategies, monitor low-stock and slow-moving inventory, and improve seller and delivery performance in areas requiring attention.
+
+🔗 **[View Dashboard on GitHub](https://github.com/Anaskhan1245/E-Commerce-Analytics-PowerBI)**
+
+</td>
+</tr>
+</table>
+
 
 <table>
 <tr>
