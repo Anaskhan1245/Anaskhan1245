@@ -161,7 +161,7 @@ My focus isn't just building dashboards — it's understanding **why something h
 
 <table>
 <tr>
-<td width="42%"><img src="https://anaskhan-analyst.netlify.app/images/project1.png" width="100%"/></td>
+<td width="42%"><img src="https://github.com/Anaskhan1245/Sales-Performance-Analysis-Dashboard-Power-BI-Business-Intelligence/blob/main/Sales%20dashboard%20(1).png?raw=true" width="100%"/></td>
 <td width="58%">
 
 ### 📦 Business Performance & Profitability Dashboard
@@ -181,7 +181,7 @@ My focus isn't just building dashboards — it's understanding **why something h
 
 <table>
 <tr>
-<td width="42%"><img src="https://anaskhan-analyst.netlify.app/images/project2.png" width="100%"/></td>
+<td width="42%"><img src="https://github.com/Anaskhan1245/Olist-Ecommerce-Data-Analysis/blob/main/Dashboard_img.png?raw=true" width="100%"/></td>
 <td width="58%">
 
 ### 🛒 Olist E-Commerce Performance Analysis
@@ -201,7 +201,7 @@ My focus isn't just building dashboards — it's understanding **why something h
 
 <table>
 <tr>
-<td width="42%"><img src="https://anaskhan-analyst.netlify.app/images/project3.png" width="100%"/></td>
+<td width="42%"><img src="https://github.com/Anaskhan1245/Fraud-Payment-Detection-Dashboard-built-using-Power-BI/blob/main/dashboard.png?raw=true" width="100%"/></td>
 <td width="58%">
 
 ### 💳 Financial Risk Monitoring Dashboard
@@ -221,7 +221,7 @@ My focus isn't just building dashboards — it's understanding **why something h
 
 <table>
 <tr>
-<td width="42%"><img src="https://anaskhan-analyst.netlify.app/images/project4.png" width="100%"/></td>
+<td width="42%"><img src="https://github.com/Anaskhan1245/HR-Attrition-Analysis-Dashboard-Power-BI-Employee-Analytics/blob/main/HR%20dashboard.png?raw=true" width="100%"/></td>
 <td width="58%">
 
 ### 👥 HR Attrition & Employee Analytics Dashboard
