@@ -120,7 +120,7 @@ My focus isn't just building dashboards — it's understanding **why something h
 
 <table>
 <tr>
-<td width="42%"><img src="https://anaskhan-analyst.netlify.app/images/ecommerce-dashboard.png" width="100%"/></td>
+<td width="42%"><img src="https://github.com/Anaskhan1245/E-Commerce-Analytics-PowerBI/blob/main/Dashboard/Dashbaord%20(1).png?raw=true" width="100%"/></td>
 <td width="58%">
 
 ### 🛒 E-Commerce Sales & Business Analytics
