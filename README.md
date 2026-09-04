@@ -141,7 +141,7 @@ My focus isn't just building dashboards — it's understanding **why something h
 
 <table>
 <tr>
-<td width="42%"><img src="https://anaskhan-analyst.netlify.app/images/project%205.png" width="100%"/></td>
+<td width="42%"><img src="https://github.com/Anaskhan1245/logistics-delivery-performance-analytics/blob/main/5-Dashboard_Screenshots/1-Executive_Overview.png?raw=true" width="100%"/></td>
 <td width="58%">
 
 ### 🚚 Logistics Delivery Performance Analytics
