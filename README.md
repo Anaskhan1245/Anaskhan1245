@@ -221,26 +221,6 @@ My focus isn't just building dashboards — it's understanding **why something h
 
 <table>
 <tr>
-<td width="42%"><img src="https://github.com/Anaskhan1245/Fraud-Payment-Detection-Dashboard-built-using-Power-BI/blob/main/dashboard.png?raw=true" width="100%"/></td>
-<td width="58%">
-
-### 💳 Financial Risk Monitoring Dashboard
-`Python` `Pandas` `NumPy` `SQL` `Power BI`
-
-**Problem:** The business needed a centralized way to monitor transactions and flag potential fraud risk across **10,000+ transactions**.
-
-**Key Insight:** A subset of transactions displayed unusual behavioral patterns indicating elevated fraud risk.
-
-**Recommendation:** Establish risk-based transaction monitoring and continuously track fraud patterns for early detection.
-
-🔗 **[View Code on GitHub](https://github.com/Anaskhan1245/Fraud-Payment-Detection-Dashboard-built-using-Power-BI)**
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
 <td width="42%"><img src="https://github.com/Anaskhan1245/HR-Attrition-Analysis-Dashboard-Power-BI-Employee-Analytics/blob/main/HR%20dashboard.png?raw=true" width="100%"/></td>
 <td width="58%">
 
