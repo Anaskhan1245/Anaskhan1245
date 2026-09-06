@@ -120,6 +120,26 @@ My focus isn't just building dashboards — it's understanding **why something h
 
 <table>
 <tr>
+<td width="42%"><img src="https://github.com/Anaskhan1245/logistics-delivery-performance-analytics/blob/main/5-Dashboard_Screenshots/1-Executive_Overview.png?raw=true" width="100%"/></td>
+<td width="58%">
+
+### 🚚 Logistics Delivery Performance Analytics
+`SQL` `PostgreSQL` `Python` `Power BI` `DAX`
+
+**Problem:** Management needed visibility into late-delivery risk, shipping modes and regional operational gaps.
+
+**Key Insight:** First & Second Class shipping modes showed significantly higher late-delivery rates, with specific regions at elevated risk.
+
+**Recommendation:** Prioritize high-risk shipping mode/region combinations and tighten the gap between scheduled vs. actual shipping time.
+
+🔗 **[View Code on GitHub](https://github.com/Anaskhan1245/logistics-delivery-performance-analytics)**
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
 <td width="42%"><img src="https://github.com/Anaskhan1245/E-Commerce-Analytics-PowerBI/blob/main/Dashboard/Dashbaord%20(1).png?raw=true" width="100%"/></td>
 <td width="58%">
 
@@ -138,26 +158,26 @@ My focus isn't just building dashboards — it's understanding **why something h
 </tr>
 </table>
 
-
 <table>
 <tr>
-<td width="42%"><img src="https://github.com/Anaskhan1245/logistics-delivery-performance-analytics/blob/main/5-Dashboard_Screenshots/1-Executive_Overview.png?raw=true" width="100%"/></td>
+<td width="42%"><img src="https://github.com/Anaskhan1245/Financial-Transaction-Risk-Fraud-Analytics/blob/main/Dashboard/Dashboard_Overview.png?raw=true" width="100%"/></td>
 <td width="58%">
 
-### 🚚 Logistics Delivery Performance Analytics
-`SQL` `PostgreSQL` `Python` `Power BI` `DAX`
+### 💳 Financial Transaction Risk & Fraud Analytics
+`Python` `PostgreSQL` `SQL` `Power BI` `DAX` `Power Query`
 
-**Problem:** Management needed visibility into late-delivery risk, shipping modes and regional operational gaps.
+**Problem:** Financial transaction data mein potential fraud patterns, high-value transactions, balance anomalies aur account-level risk ko identify karne ke liye management ko an interactive risk monitoring solution ki zarurat thi.
 
-**Key Insight:** First & Second Class shipping modes showed significantly higher late-delivery rates, with specific regions at elevated risk.
+**Key Insight:** The analysis highlights fraud concentration across transaction types, high-value transactions, balance inconsistencies, risk categories, and origin and destination accounts, helping identify areas requiring greater monitoring.
 
-**Recommendation:** Prioritize high-risk shipping mode/region combinations and tighten the gap between scheduled vs. actual shipping time.
+**Recommendation:** Prioritize high-risk transaction types and high-value transactions for review, investigate accounts with significant fraud exposure, strengthen balance validation checks, and use risk scoring to prioritize potentially suspicious transactions.
 
-🔗 **[View Code on GitHub](https://github.com/Anaskhan1245/logistics-delivery-performance-analytics)**
+🔗 **[View Project on GitHub](https://github.com/Anaskhan1245/Financial-Transaction-Risk-Fraud-Analytics)**
 
 </td>
 </tr>
 </table>
+
 
 <table>
 <tr>
