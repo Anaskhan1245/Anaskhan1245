@@ -160,7 +160,7 @@ My focus isn't just building dashboards — it's understanding **why something h
 
 <table>
 <tr>
-<td width="42%"><img src="https://github.com/Anaskhan1245/Financial-Transaction-Risk-Fraud-Analytics/blob/main/Dashboard/Dashboard_Overview.png?raw=true" width="100%"/></td>
+<td width="42%"><img src="https://github.com/Anaskhan1245/Financial-Transaction-Risk-Fraud-Analytics/blob/main/Dashboard/1-Dashboard_Overview.png?raw=true" width="100%"/></td>
 <td width="58%">
 
 ### 💳 Financial Transaction Risk & Fraud Analytics
