@@ -25,20 +25,6 @@ BCA graduate with **eight months of Data Analyst internship experience** at Jivi
 
 My portfolio combines business analysis with practical implementation—from Python and PostgreSQL to an **Azure analytics workflow processing 6.36 million financial transactions**.
 
-## 🎯 Professional Snapshot
-
-| Area | Details |
-|---|---|
-| **Current Profile** | Data Analyst |
-| **Availability** | Immediate Joiner |
-| **Relocation** | Open to Delhi NCR |
-| **Core Tools** | SQL, Python, Power BI, Advanced Excel, Azure |
-| **Database Experience** | PostgreSQL, Azure SQL Database |
-| **Cloud Analytics** | ADLS Gen2, Azure Data Factory, Azure SQL |
-| **Education** | Bachelor of Computer Applications (BCA), 2023–2026 |
-
----
-
 ## Featured Projects
 
 ### 01 · Azure Financial Transaction Risk & Fraud Analytics
