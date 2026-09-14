@@ -193,72 +193,139 @@ Built an interactive e-commerce analytics solution to support **product, pricing
 </table>
 
 
+## 4. Business Performance & Profitability Dashboard
+
 <table>
 <tr>
-<td width="42%"><img src="https://github.com/Anaskhan1245/Sales-Performance-Analysis-Dashboard-Power-BI-Business-Intelligence/blob/main/Sales%20dashboard%20(1).png?raw=true" width="100%"/></td>
-<td width="58%">
+<td width="43%" valign="top">
 
-📦 Business Performance & Profitability Dashboard
+<img src="https://github.com/Anaskhan1245/Sales-Performance-Analysis-Dashboard-Power-BI-Business-Intelligence/blob/main/Sales%20dashboard%20(1).png?raw=true" width="100%" alt="Business Performance and Profitability Dashboard"/>
 
-Power BI SQL DAX Power Query
+</td>
+<td width="57%" valign="top">
 
-Problem: Management needed a centralized view of sales, profitability, regional and product-level performance across 50K+ records.
+**Tech Stack:** Power BI · SQL · DAX · Power Query
 
-Key Insight: High-discount products were driving disproportionate negative profitability in select categories.
+Built a centralized business performance dashboard to analyse **sales, profitability, regional performance, and product-level trends** across **50K+ records**.
 
-Recommendation: Review discount thresholds for low-margin products and monitor profitability alongside revenue.
+**What I analysed:**
+- Revenue and profitability trends
+- Regional and product-level performance
+- Discount impact on profit
+- High- and low-performing categories
+- Business performance KPIs
 
-🔗 View Code on GitHub
+**Key Insight:** High-discount products were driving disproportionate negative profitability in selected categories.
+
+**Recommendation:** Review discount thresholds for low-margin products and monitor profitability alongside revenue instead of focusing only on sales.
+
+[**View Full Project on GitHub →**](https://github.com/Anaskhan1245/Sales-Performance-Analysis-Dashboard-Power-BI-Business-Intelligence)
 
 </td>
 </tr>
 </table>
 
+---
+
+## 5. Olist E-Commerce Performance Analysis
+
 <table>
 <tr>
-<td width="42%"><img src="https://github.com/Anaskhan1245/Olist-Ecommerce-Data-Analysis/blob/main/Dashboard_img.png?raw=true" width="100%"/></td>
-<td width="58%">
+<td width="43%" valign="top">
 
-🛒 Olist E-Commerce Performance Analysis
+<img src="https://github.com/Anaskhan1245/Olist-Ecommerce-Data-Analysis/blob/main/Dashboard_img.png?raw=true" width="100%" alt="Olist E-Commerce Analytics Dashboard"/>
 
-SQL Python Pandas NumPy Power BI
+</td>
+<td width="57%" valign="top">
 
-Problem: Understand customer behavior, delivery performance and operational bottlenecks across 50,000+ e-commerce records.
+**Tech Stack:** SQL · Python · Pandas · NumPy · Power BI
 
-Key Insight: Seller and delivery performance patterns revealed operational bottlenecks affecting customer experience and supply-chain efficiency.
+Analysed **50,000+ e-commerce records** to understand customer behaviour, delivery performance, seller performance, and operational bottlenecks.
 
-Recommendation: Prioritize underperforming sellers/regions for review and track delivery KPIs continuously.
+**What I did:**
+- Cleaned and explored e-commerce data using Python
+- Used SQL for operational and seller-level analysis
+- Analysed customer, delivery, and order patterns
+- Identified seller and regional performance gaps
+- Built a Power BI dashboard to communicate operational findings
 
-🔗 View Code on GitHub
+**Key Insight:** Seller and delivery performance patterns revealed bottlenecks affecting customer experience and supply-chain efficiency.
+
+**Recommendation:** Prioritise underperforming sellers and regions for operational review and continuously track delivery KPIs.
+
+[**View Full Project on GitHub →**](https://github.com/Anaskhan1245/Olist-Ecommerce-Data-Analysis)
 
 </td>
 </tr>
 </table>
 
+---
+
+## 6. HR Attrition & Employee Analytics Dashboard
+
 <table>
 <tr>
-<td width="42%"><img src="https://github.com/Anaskhan1245/HR-Attrition-Analysis-Dashboard-Power-BI-Employee-Analytics/blob/main/HR%20dashboard.png?raw=true" width="100%"/></td>
-<td width="58%">
+<td width="43%" valign="top">
 
-👥 HR Attrition & Employee Analytics Dashboard
+<img src="https://github.com/Anaskhan1245/HR-Attrition-Analysis-Dashboard-Power-BI-Employee-Analytics/blob/main/HR%20dashboard.png?raw=true" width="100%" alt="HR Attrition Dashboard"/>
 
-Power BI DAX Data Modeling
+</td>
+<td width="57%" valign="top">
 
-Problem: HR needed to understand attrition patterns across departments to support retention planning.
+**Tech Stack:** Power BI · DAX · Data Modeling
 
-Key Insight: Attrition wasn't uniform — specific departments and employee segments showed comparatively higher turnover.
+Built an HR analytics dashboard to understand **employee attrition patterns across departments and workforce segments**.
 
-Recommendation: Focus retention initiatives on high-attrition segments and monitor attrition KPIs regularly.
+**What I analysed:**
+- Overall attrition trends
+- Department-level attrition
+- Employee segment comparisons
+- Workforce distribution
+- Retention-related KPIs
 
-🔗 View Code on GitHub
+**Key Insight:** Attrition was not uniform across the organisation; specific departments and employee segments showed comparatively higher turnover.
+
+**Recommendation:** Focus retention initiatives on high-attrition employee segments and track attrition KPIs regularly.
+
+[**View Full Project on GitHub →**](https://github.com/Anaskhan1245/HR-Attrition-Analysis-Dashboard-Power-BI-Employee-Analytics)
 
 </td>
 </tr>
 </table>
 
-📱 Also check out: Smartphone Sales Dashboard (Power BI) — interactive dashboard analyzing smartphone sales by brand, city, payment method and customer purchasing trends.
+---
 
+## 7. Smartphone Sales Dashboard
 
+<table>
+<tr>
+<td width="43%" valign="top">
+
+**Dashboard Preview**
+
+This project showcases an interactive Power BI report focused on smartphone sales performance.
+
+</td>
+<td width="57%" valign="top">
+
+**Tech Stack:** Power BI · DAX · Data Visualization
+
+Created an interactive dashboard analysing smartphone sales from multiple business dimensions.
+
+**Analysis Areas:**
+- Brand-wise sales performance
+- City-level sales trends
+- Payment-method distribution
+- Customer purchasing patterns
+- Product and sales KPIs
+
+The dashboard provides a clear overview of sales performance and helps identify patterns across brands, locations, and purchasing behaviour.
+
+[**View Full Project on GitHub →**](https://github.com/Anaskhan1245/Smartphone-Sales-Dashboard-PowerBI)
+
+</td>
+</tr>
+</table>
 ---
 
 ## 🔄 My Analytics Workflow
