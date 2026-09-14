@@ -1,321 +1,254 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=210&section=header&text=Hi%20There,%20I'm%20Anas%20Khan%20%F0%9F%91%8B&fontSize=34&fontColor=ffffff&animation=fadeIn&desc=Data%20Analyst%20%7C%20SQL%20%E2%80%A2%20Python%20%E2%80%A2%20Power%20BI%20%E2%80%A2%20Excel%20%E2%80%A2%20Tableau&descAlign=50&descSize=17&fontAlignY=32&descAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:2563EB&height=215&section=header&text=Anas%20Khan&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Data%20Analyst%20%7C%20SQL%20%E2%80%A2%20Power%20BI%20%E2%80%A2%20Python%20%E2%80%A2%20Advanced%20Excel%20%E2%80%A2%20Azure&descAlign=50&descSize=18&descAlignY=57" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=2563EB&center=true&vCenter=true&width=750&lines=Turning+Raw+Data+Into+Business+Decisions;Data+Cleaning+%7C+EDA+%7C+SQL+Analytics;Power+BI+Dashboards+%7C+KPI+Reporting;Root+Cause+Analysis+%7C+Business+Recommendations" />
+### Turning business data into reliable reports, actionable insights, and decision-ready dashboards
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_My_Work-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://anaskhan-analyst.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anas-data-analytics/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anaskhan82730@gmail.com)
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Website-2563EB?style=for-the-badge)](https://anaskhan-analyst.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anas-data-analytics/)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anaskhan82730@gmail.com)
-[![Resume](https://img.shields.io/badge/📄_Resume-Download-1e293b?style=for-the-badge)](https://anaskhan-analyst.netlify.app/Anas_Resume_Analyst.pdf)
-
 ![Immediate Joiner](https://img.shields.io/badge/Status-Immediate%20Joiner-16A34A?style=flat-square)
-![Open to Relocate](https://img.shields.io/badge/Open%20to%20Relocate-Delhi%20NCR-2563EB?style=flat-square)
-![Location](https://img.shields.io/badge/Based%20in-Firozabad%2C%20UP-64748B?style=flat-square)
+![Relocation](https://img.shields.io/badge/Open%20to%20Relocate-Delhi%20NCR-2563EB?style=flat-square)
+![Location](https://img.shields.io/badge/Location-Firozabad%2C%20UP-64748B?style=flat-square)
 ![Profile Views](https://komarev.com/ghpvc/?username=Anaskhan1245&color=2563EB&style=flat-square&label=Profile+Views)
 
-<p>
-<a href="#-about-me">About</a> •
-<a href="#-experience">Experience</a> •
-<a href="#-technical-stack">Skills</a> •
-<a href="#-featured-projects">Projects</a> •
-<a href="#-github-analytics">GitHub Stats</a> •
-<a href="#-lets-connect">Contact</a>
-</p>
-
 </div>
 
 ---
 
-## 🚀 About Me
+## 👋 About Me
 
-I'm a **Data Analyst** who enjoys turning messy, real-world datasets into simple, decision-ready insights. I work across the full analytics lifecycle — **data extraction → cleaning → analysis → visualization → insights → business recommendations.**
+I am a **Data Analyst with an eight-month internship and a BCA degree**, with hands-on experience in **SQL, Python, Power BI, Power Query, Advanced Excel, and Microsoft Azure**.
 
-My focus isn't just building dashboards — it's understanding **why something happened, what's driving it, and what the business should do next.**
+During my internship, I worked on **data preparation, validation, KPI reporting, dashboard development, reporting automation, exploratory analysis, and root-cause analysis** for sales, inventory, customer, and operational reporting.
 
-<table>
-<tr>
-<td width="50%" valign="top">
+I also built an end-to-end **Azure analytics workflow using ADLS Gen2, Azure Data Factory, Azure SQL, and Power BI** to analyse **6.36 million financial transactions**.
 
-**📍 Based in:** Firozabad, Uttar Pradesh, India
-**🎯 Target Roles:** Data Analyst • Business Analyst • BI Analyst • Financial Analyst
-**🌎 Open to:** Delhi NCR • Noida • Gurgaon • Delhi
-**🎓 Education:** BCA, J.S University (2023–2026)
+My approach is simple:
 
-</td>
-<td width="50%" valign="top">
-
-**⚡ 10+ hrs/week** manual reporting effort saved
-**📊 40%** reporting efficiency improved
-**📉 15%** dead stock reduction contributed
-**🗂️ 100K+** records analyzed across projects
-
-</td>
-</tr>
-</table>
+**Business Requirement → Data Preparation → Validation → Analysis → Dashboard → Insight → Recommendation**
 
 ---
 
-## 💼 Experience
+## 🎯 Professional Snapshot
 
-### 🏢 Data Analyst Intern — Jivik Interio
-**📅 Nov 2025 – Jun 2026 · Firozabad, Uttar Pradesh**
-
-- ⚡ Automated data extraction, cleaning, transformation and reporting workflows using **Python, PostgreSQL, Power Query and Excel**, reducing manual reporting effort by **10+ hours/week**.
-- 📊 Built **Power BI dashboards** and KPI reports to monitor revenue, sales growth, footfall, conversion rate and inventory turnover, improving reporting efficiency by **40%**.
-- 📉 Conducted **EDA and root-cause analysis** on inventory and operational data with business stakeholders, contributing to a **15% reduction in dead stock**.
-- 🗄️ Performed SQL-based analysis using **joins, CTEs, window functions and aggregations** to identify sales and customer performance trends.
-- 🤝 Translated business requirements into KPIs, reports, dashboards and actionable insights for stakeholders.
-
----
-
-## 🎓 Education & Certifications
-
-**Bachelor of Computer Applications (BCA)** — J.S University, Shikohabad, UP · CGPA 7.5/10 · Aug 2023 – Jun 2026
-
-- 🏅 SQL (Basic, Intermediate & Advanced) - *HackerRank Verified Certification* (2026)
-- 🏅 Python (Basic) - *HackerRank Verified Certification* (2026)
-- 🏅 Power BI Data Modelling & Analytics - *Simplilearn & Microsoft* (2026)
-- 🏅 Artificial Intelligence – Data Engineering Analyst — *NASSCOM & Skill India Digital Hub* (2026)
+| Area | Details |
+|---|---|
+| **Current Profile** | Data Analyst |
+| **Experience** | 8-month Data Analyst Internship |
+| **Availability** | Immediate Joiner |
+| **Relocation** | Open to Delhi NCR |
+| **Core Tools** | SQL, Python, Power BI, Advanced Excel, Azure |
+| **Database Experience** | PostgreSQL, Azure SQL Database |
+| **Cloud Analytics** | ADLS Gen2, Azure Data Factory, Azure SQL |
+| **Education** | Bachelor of Computer Applications (BCA), 2023–2026 |
 
 ---
 
-## 🧰 Technical Stack
+## 📈 Impact Highlights
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,postgres,mysql,git,github,vscode" /><br><br>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-3B7EA1?style=for-the-badge)
-
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=databricks&logoColor=white)
+| **10+ hrs/week** | **40%** | **15%** | **6.36M** |
+|:---:|:---:|:---:|:---:|
+| Manual reporting effort reduced | Reporting efficiency improved | Dead-stock reduction contributed | Financial transactions validated & analysed |
 
 </div>
 
-| Category | Skills |
-|---|---|
-| **SQL** | Joins, CTEs, Window Functions, Subqueries, Aggregations, CASE WHEN, Query Optimization |
-| **Python** | Pandas, NumPy, Matplotlib, Seaborn, Data Cleaning, EDA, Feature Engineering |
-| **BI & Visualization** | Power BI, DAX, Power Query, Data Modeling, KPI Dashboards, Tableau |
-| **Excel** | XLOOKUP, INDEX-MATCH, Pivot Tables, SUMIFS/COUNTIFS, Power Query |
-| **Core Skills** | KPI Development, Root Cause Analysis, Business Analysis, Reporting Automation, ETL |
-| **AI-Assisted Analytics** | ChatGPT, Claude, Gemini — used to accelerate SQL/Python drafting & debugging |
+---
+
+## 💼 Professional Experience
+
+### Data Analyst Intern — Jivik Interio
+**Nov 2025 – Jun 2026 | Firozabad, Uttar Pradesh**
+
+- Extracted, cleaned, transformed, and validated business data using **Python, PostgreSQL, Power Query, and Excel**, reducing manual reporting effort by **10+ hours per week**.
+- Built interactive **Power BI dashboards and KPI reports** for **revenue, sales growth, footfall, conversion rate, and inventory turnover**, improving reporting efficiency by **40%**.
+- Conducted **exploratory data analysis and root-cause analysis** on inventory and operational data to identify stock bottlenecks; recommendations contributed to a **15% reduction in dead stock**.
+- Used **SQL joins, CTEs, window functions, aggregations, and date-based analysis** to examine sales, customer, and operational performance trends.
+- Collaborated with business stakeholders to understand reporting requirements, define KPIs, and communicate findings through dashboards and business reports.
 
 ---
 
-## ⭐ Featured Projects
+## 🧰 Technical Skills
 
-> End-to-end analytics projects, each built around **Problem → Data → Analysis → Insight → Recommendation**.
+### Data Analysis
+`Data Extraction` `Data Cleaning` `Data Transformation` `Data Validation` `Data Quality Checks` `EDA` `Root-Cause Analysis` `Trend Analysis` `Statistical Analysis`
 
+### SQL & Databases
+`PostgreSQL` `Azure SQL Database` `Joins` `CTEs` `Window Functions` `Subqueries` `Aggregations` `CASE WHEN` `Date/Time Functions` `Query Optimisation`
 
+### Python
+`Python` `Pandas` `NumPy` `Feature Engineering` `Jupyter Notebook` `VS Code`
+
+### Business Intelligence
+`Power BI` `DAX` `Power Query` `Data Modelling` `KPI Dashboards` `Interactive Reports` `Data Visualisation` `Tableau`
+
+### Microsoft Azure
+`ADLS Gen2` `Azure Data Factory` `Linked Services` `Datasets` `Copy Activity` `Column Mapping` `Pipeline Monitoring` `Azure SQL` `System-Assigned Managed Identity`
+
+### Advanced Excel
+`XLOOKUP` `INDEX-MATCH` `Pivot Tables` `Pivot Charts` `SUMIFS` `COUNTIFS` `IF/IFS` `TEXT/DATE Functions` `Data Validation` `Power Query`
+
+### Business Reporting
+`KPI Definition` `Stakeholder Collaboration` `Performance Analysis` `Reporting Automation` `Business Requirements` `Operational Reporting`
+
+---
+
+# ⭐ Featured Projects
+
+## 1. Azure Financial Transaction Risk & Fraud Analytics
 
 <table>
 <tr>
-<td width="42%">
+<td width="43%" valign="top">
+
 <img src="https://raw.githubusercontent.com/Anaskhan1245/azure-financial-fraud-analytics/main/images/1-Overview%20and%20Risk.png" width="100%" alt="Azure Fraud Analytics Dashboard"/>
-</td>
-<td width="58%">
-
-### 💳 Azure Financial Transaction Risk & Fraud Analytics
-`Python` `ADLS Gen2` `Azure Data Factory` `Azure SQL` `Power BI` `DAX`
-
-**Objective:** Build a cloud-based analytics workflow to analyse financial transactions, understand fraud patterns, and support investigation priorities.
-
-**Implementation:** Prepared data in Python, uploaded it to ADLS Gen2, and configured an ADF pipeline to load Azure SQL. Validated transaction counts and amounts, then developed a two-page Power BI report covering **6.36M transactions and 8,213 fraud-labelled records**.
-
-**Key Insight:** TRANSFER and CASH_OUT account for the largest fraud amounts. The rule-based Low-risk category shows a higher observed fraud rate than the High-risk category, highlighting the need to review scoring rules.
-
-**Recommendation:** Prioritise transaction groups and accounts with significant fraud exposure, review high-value transactions, and assess balance anomalies alongside other indicators.
-
-🔗 **[View Project on GitHub](https://github.com/Anaskhan1245/azure-financial-fraud-analytics)**
 
 </td>
-</tr>
-</table>
+<td width="57%" valign="top">
 
+**Tech Stack:** Python · ADLS Gen2 · Azure Data Factory · Azure SQL · Power BI · DAX
 
+Built an end-to-end cloud analytics workflow for financial transaction risk and fraud analysis.
 
-<table>
-<tr>
-<td width="42%"><img src="https://github.com/Anaskhan1245/logistics-delivery-performance-analytics/blob/main/5-Dashboard_Screenshots/1-Executive_Overview.png?raw=true" width="100%"/></td>
-<td width="58%">
+**What I did:**
+- Prepared transaction data in **Python** and created balance-related features, amount percentiles, and rule-based risk indicators.
+- Produced a **21-column analytical dataset**.
+- Uploaded processed CSV data to **ADLS Gen2**.
+- Configured **ADF linked services, datasets, batch Copy Activity, and explicit column mappings**.
+- Used **system-assigned managed identity** for Azure SQL authentication.
+- Validated **6,362,620 transactions** and **8,213 fraud-labelled records** using SQL row counts, amount reconciliation, and null checks.
+- Connected **Power BI to Azure SQL** and built a two-page fraud analytics report.
+- Analysed transaction mix, fraud amounts, fraud rates, simulation-step trends, balance anomalies, and high-value transactions.
+- Corrected Top-5 account DAX measures to resolve tied fraud amounts.
+- Identified a higher observed fraud rate in the **Low-risk category**, indicating that the rule-based scoring logic should be reviewed.
 
-### 🚚 Logistics Delivery Performance Analytics
-`SQL` `PostgreSQL` `Python` `Power BI` `DAX`
-
-**Problem:** Management needed visibility into late-delivery risk, shipping modes and regional operational gaps.
-
-**Key Insight:** First & Second Class shipping modes showed significantly higher late-delivery rates, with specific regions at elevated risk.
-
-**Recommendation:** Prioritize high-risk shipping mode/region combinations and tighten the gap between scheduled vs. actual shipping time.
-
-🔗 **[View Code on GitHub](https://github.com/Anaskhan1245/logistics-delivery-performance-analytics)**
+[**View Full Project on GitHub →**](https://github.com/Anaskhan1245/azure-financial-fraud-analytics)
 
 </td>
 </tr>
 </table>
-
-<table>
-<tr>
-<td width="42%"><img src="https://github.com/Anaskhan1245/E-Commerce-Analytics-PowerBI/blob/main/Dashboard/Dashbaord%20(1).png?raw=true" width="100%"/></td>
-<td width="58%">
-
-### 🛒 E-Commerce Sales & Business Analytics
-`Power BI` `Power Query` `DAX`
-
-**Problem:** Management needed a clear view of e-commerce sales performance, category and product contribution, seller performance, pricing, inventory and operational metrics.
-
-**Key Insight:** The dashboard highlights revenue concentration across categories and products, seller and city performance, discount patterns, inventory risks, delivery performance and customer-related metrics.
-
-**Recommendation:** Focus on high-performing categories and products, optimize discount strategies, monitor low-stock and slow-moving inventory, and improve seller and delivery performance in areas requiring attention.
-
-🔗 **[View Dashboard on GitHub](https://github.com/Anaskhan1245/E-Commerce-Analytics-PowerBI)**
-
-</td>
-</tr>
-</table>
-
-
-
-<table>
-<tr>
-<td width="42%"><img src="https://github.com/Anaskhan1245/Sales-Performance-Analysis-Dashboard-Power-BI-Business-Intelligence/blob/main/Sales%20dashboard%20(1).png?raw=true" width="100%"/></td>
-<td width="58%">
-
-### 📦 Business Performance & Profitability Dashboard
-`Power BI` `SQL` `DAX` `Power Query`
-
-**Problem:** Management needed a centralized view of sales, profitability, regional and product-level performance across **50K+ records**.
-
-**Key Insight:** High-discount products were driving disproportionate negative profitability in select categories.
-
-**Recommendation:** Review discount thresholds for low-margin products and monitor profitability alongside revenue.
-
-🔗 **[View Code on GitHub](https://github.com/Anaskhan1245/Sales-Performance-Analysis-Dashboard-Power-BI-Business-Intelligence)**
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="42%"><img src="https://github.com/Anaskhan1245/Olist-Ecommerce-Data-Analysis/blob/main/Dashboard_img.png?raw=true" width="100%"/></td>
-<td width="58%">
-
-### 🛒 Olist E-Commerce Performance Analysis
-`SQL` `Python` `Pandas` `NumPy` `Power BI`
-
-**Problem:** Understand customer behavior, delivery performance and operational bottlenecks across **50,000+ e-commerce records**.
-
-**Key Insight:** Seller and delivery performance patterns revealed operational bottlenecks affecting customer experience and supply-chain efficiency.
-
-**Recommendation:** Prioritize underperforming sellers/regions for review and track delivery KPIs continuously.
-
-🔗 **[View Code on GitHub](https://github.com/Anaskhan1245/Olist-Ecommerce-Data-Analysis)**
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="42%"><img src="https://github.com/Anaskhan1245/HR-Attrition-Analysis-Dashboard-Power-BI-Employee-Analytics/blob/main/HR%20dashboard.png?raw=true" width="100%"/></td>
-<td width="58%">
-
-### 👥 HR Attrition & Employee Analytics Dashboard
-`Power BI` `DAX` `Data Modeling`
-
-**Problem:** HR needed to understand attrition patterns across departments to support retention planning.
-
-**Key Insight:** Attrition wasn't uniform — specific departments and employee segments showed comparatively higher turnover.
-
-**Recommendation:** Focus retention initiatives on high-attrition segments and monitor attrition KPIs regularly.
-
-🔗 **[View Code on GitHub](https://github.com/Anaskhan1245/HR-Attrition-Analysis-Dashboard-Power-BI-Employee-Analytics)**
-
-</td>
-</tr>
-</table>
-
-**📱 Also check out:** [Smartphone Sales Dashboard (Power BI)](https://github.com/Anaskhan1245/Smartphone-Sales-Dashboard-PowerBI) — interactive dashboard analyzing smartphone sales by brand, city, payment method and customer purchasing trends.
 
 ---
 
-## 🔄 How I Solve Data Problems
+## 2. Logistics Delivery Performance Analytics
 
-```
-BUSINESS PROBLEM → DATA COLLECTION → CLEAN & TRANSFORM → EXPLORE THE DATA
-      → SQL / PYTHON ANALYSIS → FIND TRENDS & ROOT CAUSE
-      → BUILD KPI DASHBOARD → GENERATE INSIGHTS → BUSINESS RECOMMENDATIONS
+<table>
+<tr>
+<td width="43%" valign="top">
+
+<img src="https://github.com/Anaskhan1245/logistics-delivery-performance-analytics/blob/main/5-Dashboard_Screenshots/1-Executive_Overview.png?raw=true" width="100%" alt="Logistics Analytics Dashboard"/>
+
+</td>
+<td width="57%" valign="top">
+
+**Tech Stack:** Python · PostgreSQL · SQL · Power BI
+
+Developed an end-to-end logistics analysis focused on **delivery reliability, delays, and operational performance**.
+
+**What I did:**
+- Cleaned, transformed, and analysed logistics data using **Python and PostgreSQL**.
+- Used **CTEs, window functions, aggregations, and date-based analysis**.
+- Compared scheduled vs. actual delivery performance across **shipping modes, regions, categories, and customer segments**.
+- Built an interactive **Power BI dashboard** with delivery KPIs, delay trends, and segment-level analysis.
+- Used the analysis to support prioritisation of **high-risk shipping segments**.
+
+[**View Full Project on GitHub →**](https://github.com/Anaskhan1245/logistics-delivery-performance-analytics)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 3. E-Commerce Analytics Dashboard
+
+<table>
+<tr>
+<td width="43%" valign="top">
+
+<img src="https://github.com/Anaskhan1245/E-Commerce-Analytics-PowerBI/blob/main/Dashboard/Dashbaord%20(1).png?raw=true" width="100%" alt="E-Commerce Analytics Dashboard"/>
+
+</td>
+<td width="57%" valign="top">
+
+**Tech Stack:** Power BI · DAX · Power Query
+
+Built an interactive e-commerce analytics solution to support **product, pricing, seller, and inventory decisions**.
+
+**What I did:**
+- Cleaned, validated, and modelled e-commerce product and seller data using **Power Query**.
+- Analysed **sales, pricing, discounts, ratings, seller performance, and inventory availability**.
+- Developed **DAX measures** for rankings, category contribution, discount patterns, seller performance, and stock availability.
+- Designed separate **Overview** and **Insights & Recommendations** pages.
+- Converted dashboard findings into business-oriented recommendations for product, pricing, and inventory decisions.
+
+[**View Full Project on GitHub →**](https://github.com/Anaskhan1245/E-Commerce-Analytics-PowerBI)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🔄 My Analytics Workflow
+
+```text
+BUSINESS REQUIREMENT
+        ↓
+DATA EXTRACTION
+        ↓
+CLEANING & TRANSFORMATION
+        ↓
+VALIDATION & DATA-QUALITY CHECKS
+        ↓
+SQL / PYTHON ANALYSIS
+        ↓
+EDA & ROOT-CAUSE ANALYSIS
+        ↓
+KPI DEVELOPMENT
+        ↓
+POWER BI DASHBOARD
+        ↓
+INSIGHTS & RECOMMENDATIONS
 ```
 
-| Step | Focus |
-|---|---|
-| **01 → Understand** | Understand the business problem and define the right KPIs |
-| **02 → Prepare** | Clean, transform and validate the data |
-| **03 → Analyze** | Use SQL and Python to investigate trends, segments and relationships |
-| **04 → Visualize** | Build clear dashboards using Power BI / Tableau |
-| **05 → Explain** | Identify root causes instead of only reporting numbers |
-| **06 → Recommend** | Translate insights into practical business actions |
+I focus on going beyond reporting numbers by asking:
+
+**What happened? → Why did it happen? → What should the business do next?**
 
 ---
 
-## 📈 Impact Snapshot
+## 🎓 Education
 
-<div align="center">
-
-| 📊 Metric | Impact |
-|:---:|:---:|
-| **10+ hrs/week** | Manual reporting effort reduced |
-| **40%** | Reporting efficiency improved |
-| **15%** | Dead stock reduction contribution |
-| **50K+** | Records analyzed in a single project |
-| **10K+** | Financial transactions analyzed |
-
-</div>
+### Bachelor of Computer Applications (BCA)
+**J.S University, Shikohabad, Uttar Pradesh**  
+**Aug 2023 – Jun 2026 | CGPA: 7.5/10**
 
 ---
 
-## 📊 GitHub Analytics
+## 🏅 Certifications
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Anaskhan1245&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=2563EB&icon_color=2563EB&text_color=333333" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anaskhan1245&layout=compact&hide_border=true&title_color=2563EB&text_color=333333" height="170"/>
-
-<img src="https://streak-stats.demolab.com?user=Anaskhan1245&hide_border=true&ring=2563EB&fire=2563EB&currStreakLabel=2563EB" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anaskhan1245&hide_border=true&line=2563EB&point=2563EB&area=true&area_color=2563EB&color=333333" width="90%"/>
-
-</div>
+- **SQL (Basic)** — HackerRank, 2026
+- **SQL (Intermediate)** — HackerRank, 2026
+- **SQL (Advanced)** — HackerRank, 2026
+- **Python (Basic)** — HackerRank, 2026
+- **Power BI Data Modelling & Analytics** — Simplilearn & Microsoft, 2026
+- **Artificial Intelligence – Data Engineering Analyst** — NASSCOM & Skill India Digital Hub, 2026
 
 ---
 
-## 🎯 Currently Looking For
-
-I'm open to opportunities where I can use **data, analytics and visualization** to solve real business problems.
+## 📊 GitHub Activity
 
 <div align="center">
 
-![Data Analyst](https://img.shields.io/badge/Data%20Analyst-2563EB?style=flat-square)
-![Business Analyst](https://img.shields.io/badge/Business%20Analyst-2563EB?style=flat-square)
-![BI Analyst](https://img.shields.io/badge/BI%20Analyst-2563EB?style=flat-square)
-![Financial Analyst](https://img.shields.io/badge/Financial%20Analyst-2563EB?style=flat-square)
+<img src="https://github-readme-stats.vercel.app/api?username=Anaskhan1245&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=2563EB&icon_color=2563EB&text_color=334155" height="165"/>
 
-![Delhi NCR](https://img.shields.io/badge/Delhi%20NCR-64748B?style=flat-square)
-![Noida](https://img.shields.io/badge/Noida-64748B?style=flat-square)
-![Gurgaon](https://img.shields.io/badge/Gurgaon-64748B?style=flat-square)
-![Delhi](https://img.shields.io/badge/Delhi-64748B?style=flat-square)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anaskhan1245&layout=compact&hide_border=true&title_color=2563EB&text_color=334155" height="165"/>
 
 </div>
 
@@ -323,16 +256,16 @@ I'm open to opportunities where I can use **data, analytics and visualization** 
 
 ## 🤝 Let's Connect
 
+I am currently looking for a **full-time Data Analyst opportunity** where I can apply my skills in **SQL, Python, Power BI, Advanced Excel, and Azure** to solve business problems and support data-driven decision-making.
+
 <div align="center">
 
-### Have a data problem? Let's turn it into an insight.
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Explore_My_Work-2563EB?style=for-the-badge)](https://anaskhan-analyst.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Explore_My_Work-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://anaskhan-analyst.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anas-data-analytics/)
-[![Email](https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anaskhan82730@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Get_In_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anaskhan82730@gmail.com)
 
-**⭐ Thanks for visiting my profile — feel free to explore the pinned repos above!**
+### Immediate Joiner · Open to Relocate to Delhi NCR
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:2563EB&height=100&section=footer" width="100%"/>
 
 </div>
