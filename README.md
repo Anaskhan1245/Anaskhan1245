@@ -295,38 +295,6 @@ Built an HR analytics dashboard to understand **employee attrition patterns acro
 
 ---
 
-## 7. Smartphone Sales Dashboard
-
-<table>
-<tr>
-<td width="43%" valign="top">
-
-**Dashboard Preview**
-
-This project showcases an interactive Power BI report focused on smartphone sales performance.
-
-</td>
-<td width="57%" valign="top">
-
-**Tech Stack:** Power BI · DAX · Data Visualization
-
-Created an interactive dashboard analysing smartphone sales from multiple business dimensions.
-
-**Analysis Areas:**
-- Brand-wise sales performance
-- City-level sales trends
-- Payment-method distribution
-- Customer purchasing patterns
-- Product and sales KPIs
-
-The dashboard provides a clear overview of sales performance and helps identify patterns across brands, locations, and purchasing behaviour.
-
-[**View Full Project on GitHub →**](https://github.com/Anaskhan1245/Smartphone-Sales-Dashboard-PowerBI)
-
-</td>
-</tr>
-</table>
----
 
 ## 🔄 My Analytics Workflow
 
