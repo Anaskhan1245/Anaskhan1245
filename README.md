@@ -21,9 +21,13 @@
 
 ## About Me
 
-BCA graduate with **eight months of Data Analyst internship experience** at Jivik Interio. My work includes data preparation, SQL analysis, sales and inventory reporting, and interactive Power BI dashboards.
+I am a **Data Analyst with hands-on experience in SQL, Python, Power BI, and Advanced Excel**, working on data cleaning, transformation, validation, and business analysis.
 
-My portfolio combines business analysis with practical implementation—from Python and PostgreSQL to an **Azure analytics workflow processing 6.36 million financial transactions**.
+My experience includes **data modelling, KPI reporting, interactive dashboards, reporting automation, and exploratory analysis** for sales, inventory, and operational reporting. I translate business requirements into analysis, investigate trends, identify data quality issues, and communicate practical recommendations.
+
+I also built an **Azure analytics workflow using ADLS Gen2, Azure Data Factory, Azure SQL, and Power BI** to analyse **6.36 million financial transactions**, exploring fraud patterns, balance anomalies, and rule-based risk indicators.
+
+I focus on creating **reliable reports and useful dashboards** that help teams understand performance and make informed business decisions.
 
 ## Featured Projects
 
