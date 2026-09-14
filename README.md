@@ -1,13 +1,19 @@
 <div align="center">
 
-# Anas Khan
-### Data Analyst | SQL · Power BI · Python · Azure
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:2563EB&height=215&section=header&text=Anas%20Khan&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Data%20Analyst%20%7C%20SQL%20%E2%80%A2%20Power%20BI%20%E2%80%A2%20Python%20%E2%80%A2%20Advanced%20Excel%20%E2%80%A2%20Azure&descAlign=50&descSize=18&descAlignY=57" width="100%"/>
 
-Turning business data into reliable reports and practical recommendations.
+### Turning business data into reliable reports, actionable insights, and decision-ready dashboards
 
-[**Portfolio**](https://anaskhan-analyst.vercel.app/) · [**LinkedIn**](https://www.linkedin.com/in/anas-data-analytics/) · [**Email**](mailto:anaskhan82730@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_My_Work-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://anaskhan-analyst.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anas-data-analytics/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anaskhan82730@gmail.com)
 
-**Firozabad, Uttar Pradesh · Open to Delhi NCR · Immediate Joiner**
+<br>
+
+![Immediate Joiner](https://img.shields.io/badge/Status-Immediate%20Joiner-16A34A?style=flat-square)
+![Relocation](https://img.shields.io/badge/Open%20to%20Relocate-Delhi%20NCR-2563EB?style=flat-square)
+![Location](https://img.shields.io/badge/Location-Firozabad%2C%20UP-64748B?style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Anaskhan1245&color=2563EB&style=flat-square&label=Profile+Views)
 
 </div>
 
