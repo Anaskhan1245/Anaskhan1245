@@ -160,19 +160,23 @@ My focus isn't just building dashboards — it's understanding **why something h
 
 <table>
 <tr>
-<td width="42%"><img src="https://github.com/Anaskhan1245/Financial-Transaction-Risk-Fraud-Analytics/blob/main/Dashboard/1-Dashboard_Overview.png?raw=true" width="100%"/></td>
+<td width="42%">
+<img src="https://raw.githubusercontent.com/Anaskhan1245/azure-financial-fraud-analytics/main/images/1-Overview%20and%20Risk.png" width="100%" alt="Azure Fraud Analytics Dashboard"/>
+</td>
 <td width="58%">
 
-### 💳 Financial Transaction Risk & Fraud Analytics
-`Python` `PostgreSQL` `SQL` `Power BI` `DAX` `Power Query`
+### 💳 Azure Financial Transaction Risk & Fraud Analytics
+`Python` `ADLS Gen2` `Azure Data Factory` `Azure SQL` `Power BI` `DAX`
 
-**Problem:** Financial transaction data mein potential fraud patterns, high-value transactions, balance anomalies aur account-level risk ko identify karne ke liye management ko an interactive risk monitoring solution ki zarurat thi.
+**Objective:** Build a cloud-based analytics workflow to analyse financial transactions, understand fraud patterns, and support investigation priorities.
 
-**Key Insight:** The analysis highlights fraud concentration across transaction types, high-value transactions, balance inconsistencies, risk categories, and origin and destination accounts, helping identify areas requiring greater monitoring.
+**Implementation:** Prepared data in Python, uploaded it to ADLS Gen2, and configured an ADF pipeline to load Azure SQL. Validated transaction counts and amounts, then developed a two-page Power BI report covering **6.36M transactions and 8,213 fraud-labelled records**.
 
-**Recommendation:** Prioritize high-risk transaction types and high-value transactions for review, investigate accounts with significant fraud exposure, strengthen balance validation checks, and use risk scoring to prioritize potentially suspicious transactions.
+**Key Insight:** TRANSFER and CASH_OUT account for the largest fraud amounts. The rule-based Low-risk category shows a higher observed fraud rate than the High-risk category, highlighting the need to review scoring rules.
 
-🔗 **[View Project on GitHub](https://github.com/Anaskhan1245/Financial-Transaction-Risk-Fraud-Analytics)**
+**Recommendation:** Prioritise transaction groups and accounts with significant fraud exposure, review high-value transactions, and assess balance anomalies alongside other indicators.
+
+🔗 **[View Project on GitHub](https://github.com/Anaskhan1245/azure-financial-fraud-analytics)**
 
 </td>
 </tr>
