@@ -145,23 +145,41 @@ Review discount strategies, seller performance, and stock availability for prior
 **Bachelor of Computer Applications — J.S University, Shikohabad**  
 August 2023 – June 2026 · **CGPA: 7.5/10**
 
-## Certifications & Learning
+## 🏅 Certifications
 
-- **SQL — Basic, Intermediate & Advanced:** HackerRank, 2026
-- **Python — Basic:** HackerRank, 2026
-
-<details>
-<summary><strong>Additional Learning</strong></summary>
-
-- Power BI Data Modelling & Analytics
-- Artificial Intelligence – Data Engineering Analyst
-
-</details>
+- **SQL (Basic)** — HackerRank, 2026
+- **SQL (Intermediate)** — HackerRank, 2026
+- **SQL (Advanced)** — HackerRank, 2026
+- **Python (Basic)** — HackerRank, 2026
+- **Power BI Data Modelling & Analytics** — Simplilearn & Microsoft, 2026
+- **Artificial Intelligence – Data Engineering Analyst** — NASSCOM & Skill India Digital Hub, 2026
 
 ---
 
-## Let's Connect
+## 📊 GitHub Activity
 
-I am looking for a **Data Analyst opportunity** where I can contribute through SQL analysis, Power BI reporting, and reliable data preparation.
+<div align="center">
 
-**[Portfolio](https://anaskhan-analyst.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/anas-data-analytics/) · [Email](mailto:anaskhan82730@gmail.com)**
+<img src="https://github-readme-stats.vercel.app/api?username=Anaskhan1245&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=2563EB&icon_color=2563EB&text_color=334155" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anaskhan1245&layout=compact&hide_border=true&title_color=2563EB&text_color=334155" height="165"/>
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+I am currently looking for a **full-time Data Analyst opportunity** where I can apply my skills in **SQL, Python, Power BI, Advanced Excel, and Azure** to solve business problems and support data-driven decision-making.
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Explore_My_Work-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://anaskhan-analyst.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anas-data-analytics/)
+[![Email](https://img.shields.io/badge/Email-Get_In_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anaskhan82730@gmail.com)
+
+### Immediate Joiner · Open to Relocate to Delhi NCR
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:2563EB&height=100&section=footer" width="100%"/>
+
+</div>
