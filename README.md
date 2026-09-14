@@ -129,16 +129,31 @@ Review discount strategies, seller performance, and stock availability for prior
 - Used SQL joins, CTEs, window functions, and date-based analysis to examine business trends.
 - Worked with stakeholders to define KPIs, clarify reporting requirements, and communicate findings.
 
-## Technical Skills
+---
 
-| Area | Tools & Practical Skills |
-|---|---|
-| **SQL & Databases** | PostgreSQL, Azure SQL, joins, CTEs, window functions, aggregations, data validation |
-| **Python** | Pandas, NumPy, data cleaning, exploratory analysis, feature preparation |
-| **Power BI** | DAX, Power Query, data modelling, KPI design, interactive reports |
-| **Azure** | ADLS Gen2, ADF Copy Activity, linked services, datasets, column mappings, pipeline monitoring, managed identity |
-| **Advanced Excel** | Pivot Tables, XLOOKUP, INDEX-MATCH, SUMIFS, COUNTIFS, Power Query |
-| **Business Analysis** | Requirements gathering, KPI definition, trend analysis, reporting automation, stakeholder communication |
+## 🧰 Technical Skills
+
+### Data Analysis
+`Data Extraction` `Data Cleaning` `Data Transformation` `Data Validation` `Data Quality Checks` `EDA` `Root-Cause Analysis` `Trend Analysis` `Statistical Analysis`
+
+### SQL & Databases
+`PostgreSQL` `Azure SQL Database` `Joins` `CTEs` `Window Functions` `Subqueries` `Aggregations` `CASE WHEN` `Date/Time Functions` `Query Optimisation`
+
+### Python
+`Python` `Pandas` `NumPy` `Feature Engineering` `Jupyter Notebook` `VS Code`
+
+### Business Intelligence
+`Power BI` `DAX` `Power Query` `Data Modelling` `KPI Dashboards` `Interactive Reports` `Data Visualisation` `Tableau`
+
+### Microsoft Azure
+`ADLS Gen2` `Azure Data Factory` `Linked Services` `Datasets` `Copy Activity` `Column Mapping` `Pipeline Monitoring` `Azure SQL` `System-Assigned Managed Identity`
+
+### Advanced Excel
+`XLOOKUP` `INDEX-MATCH` `Pivot Tables` `Pivot Charts` `SUMIFS` `COUNTIFS` `IF/IFS` `TEXT/DATE Functions` `Data Validation` `Power Query`
+
+### Business Reporting
+`KPI Definition` `Stakeholder Collaboration` `Performance Analysis` `Reporting Automation` `Business Requirements` `Operational Reporting`
+
 
 ## Education
 
@@ -153,18 +168,6 @@ August 2023 – June 2026 · **CGPA: 7.5/10**
 - **Python (Basic)** — HackerRank, 2026
 - **Power BI Data Modelling & Analytics** — Simplilearn & Microsoft, 2026
 - **Artificial Intelligence – Data Engineering Analyst** — NASSCOM & Skill India Digital Hub, 2026
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Anaskhan1245&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=2563EB&icon_color=2563EB&text_color=334155" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anaskhan1245&layout=compact&hide_border=true&title_color=2563EB&text_color=334155" height="165"/>
-
-</div>
 
 ---
 
