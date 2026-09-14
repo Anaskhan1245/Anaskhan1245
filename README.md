@@ -38,7 +38,6 @@ My approach is simple:
 | Area | Details |
 |---|---|
 | **Current Profile** | Data Analyst |
-| **Experience** | 8-month Data Analyst Internship |
 | **Availability** | Immediate Joiner |
 | **Relocation** | Open to Delhi NCR |
 | **Core Tools** | SQL, Python, Power BI, Advanced Excel, Azure |
