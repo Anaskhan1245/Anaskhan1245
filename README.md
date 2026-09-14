@@ -118,6 +118,33 @@ My focus isn't just building dashboards — it's understanding **why something h
 > End-to-end analytics projects, each built around **Problem → Data → Analysis → Insight → Recommendation**.
 
 
+
+<table>
+<tr>
+<td width="42%">
+<img src="https://raw.githubusercontent.com/Anaskhan1245/azure-financial-fraud-analytics/main/images/1-Overview%20and%20Risk.png" width="100%" alt="Azure Fraud Analytics Dashboard"/>
+</td>
+<td width="58%">
+
+### 💳 Azure Financial Transaction Risk & Fraud Analytics
+`Python` `ADLS Gen2` `Azure Data Factory` `Azure SQL` `Power BI` `DAX`
+
+**Objective:** Build a cloud-based analytics workflow to analyse financial transactions, understand fraud patterns, and support investigation priorities.
+
+**Implementation:** Prepared data in Python, uploaded it to ADLS Gen2, and configured an ADF pipeline to load Azure SQL. Validated transaction counts and amounts, then developed a two-page Power BI report covering **6.36M transactions and 8,213 fraud-labelled records**.
+
+**Key Insight:** TRANSFER and CASH_OUT account for the largest fraud amounts. The rule-based Low-risk category shows a higher observed fraud rate than the High-risk category, highlighting the need to review scoring rules.
+
+**Recommendation:** Prioritise transaction groups and accounts with significant fraud exposure, review high-value transactions, and assess balance anomalies alongside other indicators.
+
+🔗 **[View Project on GitHub](https://github.com/Anaskhan1245/azure-financial-fraud-analytics)**
+
+</td>
+</tr>
+</table>
+
+
+
 <table>
 <tr>
 <td width="42%"><img src="https://github.com/Anaskhan1245/logistics-delivery-performance-analytics/blob/main/5-Dashboard_Screenshots/1-Executive_Overview.png?raw=true" width="100%"/></td>
@@ -158,29 +185,6 @@ My focus isn't just building dashboards — it's understanding **why something h
 </tr>
 </table>
 
-<table>
-<tr>
-<td width="42%">
-<img src="https://raw.githubusercontent.com/Anaskhan1245/azure-financial-fraud-analytics/main/images/1-Overview%20and%20Risk.png" width="100%" alt="Azure Fraud Analytics Dashboard"/>
-</td>
-<td width="58%">
-
-### 💳 Azure Financial Transaction Risk & Fraud Analytics
-`Python` `ADLS Gen2` `Azure Data Factory` `Azure SQL` `Power BI` `DAX`
-
-**Objective:** Build a cloud-based analytics workflow to analyse financial transactions, understand fraud patterns, and support investigation priorities.
-
-**Implementation:** Prepared data in Python, uploaded it to ADLS Gen2, and configured an ADF pipeline to load Azure SQL. Validated transaction counts and amounts, then developed a two-page Power BI report covering **6.36M transactions and 8,213 fraud-labelled records**.
-
-**Key Insight:** TRANSFER and CASH_OUT account for the largest fraud amounts. The rule-based Low-risk category shows a higher observed fraud rate than the High-risk category, highlighting the need to review scoring rules.
-
-**Recommendation:** Prioritise transaction groups and accounts with significant fraud exposure, review high-value transactions, and assess balance anomalies alongside other indicators.
-
-🔗 **[View Project on GitHub](https://github.com/Anaskhan1245/azure-financial-fraud-analytics)**
-
-</td>
-</tr>
-</table>
 
 
 <table>
