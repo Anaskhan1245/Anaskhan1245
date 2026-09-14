@@ -192,6 +192,73 @@ Built an interactive e-commerce analytics solution to support **product, pricing
 </tr>
 </table>
 
+
+<table>
+<tr>
+<td width="42%"><img src="https://github.com/Anaskhan1245/Sales-Performance-Analysis-Dashboard-Power-BI-Business-Intelligence/blob/main/Sales%20dashboard%20(1).png?raw=true" width="100%"/></td>
+<td width="58%">
+
+📦 Business Performance & Profitability Dashboard
+
+Power BI SQL DAX Power Query
+
+Problem: Management needed a centralized view of sales, profitability, regional and product-level performance across 50K+ records.
+
+Key Insight: High-discount products were driving disproportionate negative profitability in select categories.
+
+Recommendation: Review discount thresholds for low-margin products and monitor profitability alongside revenue.
+
+🔗 View Code on GitHub
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="42%"><img src="https://github.com/Anaskhan1245/Olist-Ecommerce-Data-Analysis/blob/main/Dashboard_img.png?raw=true" width="100%"/></td>
+<td width="58%">
+
+🛒 Olist E-Commerce Performance Analysis
+
+SQL Python Pandas NumPy Power BI
+
+Problem: Understand customer behavior, delivery performance and operational bottlenecks across 50,000+ e-commerce records.
+
+Key Insight: Seller and delivery performance patterns revealed operational bottlenecks affecting customer experience and supply-chain efficiency.
+
+Recommendation: Prioritize underperforming sellers/regions for review and track delivery KPIs continuously.
+
+🔗 View Code on GitHub
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="42%"><img src="https://github.com/Anaskhan1245/HR-Attrition-Analysis-Dashboard-Power-BI-Employee-Analytics/blob/main/HR%20dashboard.png?raw=true" width="100%"/></td>
+<td width="58%">
+
+👥 HR Attrition & Employee Analytics Dashboard
+
+Power BI DAX Data Modeling
+
+Problem: HR needed to understand attrition patterns across departments to support retention planning.
+
+Key Insight: Attrition wasn't uniform — specific departments and employee segments showed comparatively higher turnover.
+
+Recommendation: Focus retention initiatives on high-attrition segments and monitor attrition KPIs regularly.
+
+🔗 View Code on GitHub
+
+</td>
+</tr>
+</table>
+
+📱 Also check out: Smartphone Sales Dashboard (Power BI) — interactive dashboard analyzing smartphone sales by brand, city, payment method and customer purchasing trends.
+
+
 ---
 
 ## 🔄 My Analytics Workflow
